@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.collapse ul li a{
+    font-size: 1rem;
+}
+.hablu:hover{
+    color: blue;
+    border: 0.5px solid rgb(138, 125, 125);
+    border-radius: 5px;
+    transition: 0.3s all ease;
+}
+.extra{
+    border-top: 0.5px solid red;
+    margin: 8rem 0 0 0;
+    border-left: 1px solid black;   
+}
+.line{
+    padding: 5rem 0 0 0;
+    border-bottom: 1px solid rgb(39, 38, 38);
+}
+.lineto{
+    padding: 3rem 0 0 0;
+}
+.cls{
+    border-right: 1px solid rgb(121, 105, 105);
+   
+}
+.im{
+    height: 5px;
+    width: 10px;
+}
+.pagol{
+
+    border-radius: 30px;
+}
